@@ -1,7 +1,5 @@
 # PRODIGY_CS_02
 
-D:\6th_sem_code\internship\x1.png
-D:\6th_sem_code\internship\encrypted.png
 
 from PIL import Image
 import os
